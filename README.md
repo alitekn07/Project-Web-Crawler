@@ -28,7 +28,7 @@
 
 <h1>About</h1>
 
-<p align="justify"> With this project, you will be able to crawl individual websites as well as collectively crawl the url files you have added to the text document inside the folder. The location of the text document is available in the video I shared. You will also be able to change and restore Thread Count. As an extra, you will be able to upload the scanned websites to the SQL database. You will be able to manually set the Max Concurrent Scan.</p>
+<p align="justify"> With this project, you will be able to crawl individual websites as well as collectively crawl the url files you have added to the text document inside the folder. The location of the text document is available in the video I shared. You will also be able to change and restore Thread Count. As an extra, you will be able to upload the scanned websites to the SQL database. You will be able to manually set the Max Concurrent Scan. You can watch the video by clicking the image below.</p>
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=EOV9Q2oWsIE">
