@@ -1,0 +1,485 @@
+﻿<Window x:Class="WEBCRAWLERSONPROJE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WEBCRAWLERSONPROJE"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600"
+        ResizeMode="NoResize"
+        Background="#181735"
+        WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="/code.png">
+    <Grid Width="1600" Height="900" SnapsToDevicePixels="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="159*"/>
+            <ColumnDefinition Width="663*"/>
+            <ColumnDefinition Width="778*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Background="#0F0F2D"
+              Grid.ColumnSpan="3" Margin="0,0,0,826" Grid.RowSpan="2" SnapsToDevicePixels="False"
+              MouseDown="Grid_MouseDown">
+            <Grid.Effect>
+                <DropShadowEffect/>
+            </Grid.Effect>
+            <!--Hücre Ayarı. Kaç Tane Lazımsa Ekleyip İnce Ayarları Buradan Yapacağım-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="94*"/>
+                <ColumnDefinition Width="116*"/>
+                <ColumnDefinition Width="144*"/>
+                <ColumnDefinition Width="198*"/>
+                <ColumnDefinition Width="245*"/>
+                <ColumnDefinition Width="190*"/>
+                <ColumnDefinition Width="144*"/>
+                <ColumnDefinition Width="119*"/>
+                <ColumnDefinition Width="236*"/>
+                <!--<ColumnDefinition Width="115*"/>-->
+                <ColumnDefinition Width="115*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="1"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="2"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="3"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="4"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="5"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="6"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="7"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="8"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+            <TextBlock 
+                       Foreground="LightGray"
+                       Grid.Column="10"
+                       FontSize="14" 
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium"/>
+
+            <Button Content="Start Timer"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="1,16,1,16" Grid.Column="1">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Crawl Single Url"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="10,16,3,16"
+                Grid.Column="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Task Based Single Url Crawl"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="134,0,10,0" Grid.Column="2" Height="74" VerticalAlignment="Center" Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="160" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Thread Count Test Long Running"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="140,-4,2,4"
+                Grid.Column="3" Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="200" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="36,28,21,20">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Thread Count Test Default"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="216,10,40,10"
+                Grid.Column="4" Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="150" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Start Main Crawling"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Grid.Column="5" Margin="143,-4,13,4" Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="130" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="7,24,7,17">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Stop Crawling"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="132,0,22,0"
+                Grid.Column="6" Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Set New Max Concurrent Crawling"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="48,-2,28,2"
+                Grid.Column="7" 
+                Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="200" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="52,26,-7,22">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Exit"
+                Foreground="White"
+                FontSize="14"
+                FontWeight="Medium"
+                Margin="222,0,16,0"
+                Grid.Column="8" Grid.ColumnSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#FE6584"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Image  x:Name="image" Height="98" Width="125" Source="/logo.png" RenderTransformOrigin="0.5,0.533" Stretch="UniformToFill" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-11,-26,0,0" Grid.ColumnSpan="2"/>
+            <Button x:Name="btnTimerStart" Grid.Column="1" Content="Start Timer" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="26" Click="btnTimerStart_Click" Opacity="0" Cursor="Hand"/>
+            <Button x:Name="btnSingleUrlCrawl" Grid.Column="2" Content="Crawl Single Url" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="99" Click="btnSingleUrlCrawl_Click" Opacity="0" Cursor="Hand" Margin="26,0,0,0"/>
+            <Button x:Name="btnTaskBasedCrawl" Grid.Column="3" Content="Task Based Single Url Crawl" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="159" Click="btnTaskBasedCrawl_Click" Opacity="0" Cursor="Hand" Margin="10,0,0,0"/>
+            <Button x:Name="ThreadCountTest" Grid.Column="4" Content="Thread Count Test Long Running" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="200" Click="ThreadCountTest_Click" Opacity="0" Cursor="Hand"/>
+            <Button x:Name="ThreadCountTestDefault" Grid.Column="4" Content="Thread Count Test Default" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="150" Click="ThreadCountTestDefault_Click" Opacity="0" Cursor="Hand" RenderTransformOrigin="0.491,0.5" Grid.ColumnSpan="2" Margin="230,0,0,0"/>
+            <Button x:Name="btnStartMainCrawling" Grid.Column="5" Content="Start Main Crawling" HorizontalAlignment="Left" VerticalAlignment="Center" Height="24" Width="130" Click="btnStartMainCrawling_Click" Opacity="0" Cursor="Hand" Margin="167,0,0,0" Grid.ColumnSpan="2"/>
+            <Button x:Name="btnStopCrawling" Grid.Column="6" Content="Stop Crawling" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="101" Click="btnStopCrawling_Click" Opacity="0" Cursor="Hand" Margin="136,0,0,0" Grid.ColumnSpan="2"/>
+            <Button x:Name="btnSetNewMaxCount" Grid.Column="7" Content="Set New Max Concurrent Crawling" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="200" Click="btnSetNewMaxCount_Click" Opacity="0" Cursor="Hand" Margin="117,0,0,0" Grid.ColumnSpan="2"/>
+            <Button x:Name="btnExit" Grid.Column="8" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Center" Height="26" Width="99" Click="btnExit_Click" Opacity="0" Cursor="Hand" Grid.ColumnSpan="2" Margin="229,0,0,0"/>
+
+            <Button Content="Start Initial Crawling"
+                Foreground="White"
+                FontSize="16"
+                FontWeight="Medium"
+                Margin="49,265,10,-254"
+                Grid.Column="8">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="TextElement.FontFamily" Value="Fonts/#Dosis"/>
+                        <Setter Property="Background" Value="#3DDDC2"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF4C70"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="150" Height="25"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+        <TextBox x:Name="txtUrl" FontFamily="Fonts/#Dosis" HorizontalAlignment="Left" Margin="10,59,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Background="#FFDADADA" FontSize="20" Height="32" Text="Enter Url And Push Crawl Single Url" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtSourceCode" FontFamily="Fonts/#Dosis" Background="#FFDADADA" HorizontalAlignment="Left" Margin="10,96,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" FontSize="20" Height="191" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="lstStatusBox" FontFamily="Fonts/#Dosis" Background="#FFDADADA" Grid.Row="1" Margin="10,292,696,10" FontSize="20" Grid.ColumnSpan="3"/>
+        <ListBox x:Name="lstboxStatistics" FontFamily="Fonts/#Dosis" Background="#FFDADADA" Grid.Row="1" Margin="306,59,696,588" FontSize="20" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label   x:Name="lblTimer" Background="{x:Null}" FontFamily="Fonts/#Dosis" Grid.Column="2" Content="Timer: " VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="82,185,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" Foreground="White" FontSize="20" Height="35"/>
+        <TextBox x:Name="txtNewMaxConcurrent" FontFamily="Fonts/#Dosis" VerticalContentAlignment="Center" FontSize="20" Grid.Column="2" HorizontalAlignment="Left" Margin="87,225,0,0" Grid.Row="1" TextWrapping="Wrap" Background="#FFDADADA" Text="Max Concurrent" VerticalAlignment="Top" Width="214" Height="27"/>
+        <CheckBox x:Name="chkBoxSaveSourceCode" FontFamily="Fonts/#Dosis" UseLayoutRounding="False" IsChecked="False" FontSize="20" Grid.Column="2" Content="Save Html Source" HorizontalAlignment="Left" Margin="318,226,0,0" Foreground="White" Grid.Row="1" VerticalAlignment="Top" Click="chkBoxSaveSourceCode_Click" Height="24" Width="160" VerticalContentAlignment="Center"/>
+        <Grid Grid.Column="2"
+              Margin="328,-394,-484,606"
+              Panel.ZIndex="-1" Grid.RowSpan="2">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="35.066"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <StackPanel Orientation="Horizontal"
+                        Margin="-350,250,-255,-250">
+                <StackPanel Width="896">
+                    <Border Width="732"
+                            Height="35"
+                            Background="#3DDDC2"
+                            Margin="150,0,0,0"
+                            CornerRadius="20"/>
+                    <Border Width="700"
+                            Height="35"
+                            Background="#FC6586"
+                            Margin="0,15,0,0"
+                            CornerRadius="20"/>
+                    <Border Width="700"
+                            Height="35"
+                            Background="#383660"
+                            Margin="75,15,0,0"
+                            CornerRadius="20"/>
+                </StackPanel>
+                <StackPanel Width="872">
+                    <Border Width="729"
+                            Height="35"
+                            Background="#3DDDC2"
+                            Margin="150,0,0,0"
+                            CornerRadius="20"/>
+                    <Border Width="700"
+                            Height="35"
+                            Background="#FC6586"
+                            Margin="0,15,0,0"
+                            CornerRadius="20"/>
+                    <Border Width="700"
+                            Height="35"
+                            Background="#383660"
+                            Margin="75,15,0,0"
+                            CornerRadius="20"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <TextBox Name = "txtInputUrl" Grid.Column="2" FontFamily="Fonts/#Dosis" HorizontalAlignment="Left"  Background="#FFDADADA" Margin="87,257,0,0" Grid.Row="1" FontSize="20" TextWrapping="Wrap" Text="Enter Root Url" VerticalAlignment="Top" Width="400" Height="30"/>
+        <Button Grid.Column="2" FontFamily="Fonts/#Dosis" Content="Start Initial Crawling" HorizontalAlignment="Left" Margin="490,259,0,0" FontSize="20" Grid.Row="1" VerticalAlignment="Top" Height="25" Width="148" Click="clearDBandStart" Opacity="0" Cursor="Hand"/>
+        <ListBox ScrollViewer.HorizontalScrollBarVisibility="Disabled" Name="listBoxResults" Grid.Column="2" Grid.Row="1" Margin="87,292,137,10" FontFamily="Fonts/#Dosis" Background="#FFDADADA">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+    </Grid>
+</Window>
+
+

@@ -1,0 +1,36 @@
+﻿crawlPage	23/01/2023 03:10:33
+
+Unable to connect to the remote server
+
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.10.10.54:443
+
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 1681
+   at HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 2113
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 1302
+   at HtmlAgilityPack.HtmlWeb.Load(String url) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 1199
+   at WEBCRAWLERSONPROJE.csHelperMethods.crawlPage(String srUrlToCrawl, Int32 irUrlDepthLevel, String _srParentUrl, DateTime _dtDiscoverDate) in C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\csHelperMethods.cs:line 91
+
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+***********************************************
+
+crawlPage	23/01/2023 03:19:48
+
+Unable to connect to the remote server
+
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.10.10.54:443
+
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 1681
+   at HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 2113
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 1302
+   at HtmlAgilityPack.HtmlWeb.Load(String url) in C:\Repos\HtmlAgilityPack\HtmlAgilityPack.Shared\HtmlWeb.cs:line 1199
+   at WEBCRAWLERSONPROJE.csHelperMethods.crawlPage(String srUrlToCrawl, Int32 irUrlDepthLevel, String _srParentUrl, DateTime _dtDiscoverDate) in C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\csHelperMethods.cs:line 91
+
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+***********************************************
+

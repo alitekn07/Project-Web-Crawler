@@ -1,0 +1,127 @@
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe.config
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.AssemblyReference.cache
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.g.cs
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\App.g.cs
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.cache
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.lref
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.baml
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.g.resources
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.Properties.Resources.resources
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.GenerateResource.cache
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CoreCompileInputs.cache
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CopyComplete
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\SplashScreen.g.cs
+C:\Users\ateki\source\repos\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\SplashScreen.baml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.AssemblyReference.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.g.cs
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\App.g.cs
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.lref
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe.config
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.baml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.g.resources
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.Properties.Resources.resources
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.GenerateResource.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CoreCompileInputs.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE(Sorunlu)\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CopyComplete
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe.config
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.AssemblyReference.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.g.cs
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\App.g.cs
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.lref
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.baml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.g.resources
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.Properties.Resources.resources
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.GenerateResource.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CoreCompileInputs.cache
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CopyComplete
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.dll
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.xml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ateki\Desktop\Final Project\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_Content.g.cs
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe.config
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.dll
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.xml
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.AssemblyReference.cache
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.g.cs
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\App.g.cs
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_Content.g.cs
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.cache
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.lref
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.baml
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.g.resources
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.Properties.Resources.resources
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.GenerateResource.cache
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CoreCompileInputs.cache
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CopyComplete
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe.config
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\WEBCRAWLERSONPROJE.pdb
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.dll
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.xml
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.AssemblyReference.cache
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.g.cs
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\App.g.cs
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_Content.g.cs
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.cache
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE_MarkupCompile.lref
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\MainWindow.baml
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.g.resources
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.Properties.Resources.resources
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.GenerateResource.cache
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CoreCompileInputs.cache
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.csproj.CopyComplete
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.exe
+C:\Users\ateki\Desktop\Project Web Crawler\WEBCRAWLERSONPROJE\obj\Debug\WEBCRAWLERSONPROJE.pdb
