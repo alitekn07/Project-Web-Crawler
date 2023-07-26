@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://github.com/alitekn07/Project-Web-Crawler"><img src="https://raw.githubusercontent.com/alitekn07/Project-Web-Crawler/main/WEBCRAWLERSONPROJE/MainWindowd.jpeg" />
+  <a href="https://github.com/alitekn07/Project-Web-Crawler"><img src="https://i.imgur.com/x93nRhW.png" />
 </p>
 
 <p align="center">        
